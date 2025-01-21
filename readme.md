@@ -1,4 +1,9 @@
-# CosWM Case Study Demo 案例演示
+# Cosine Model Watermarking Against Ensemble Distillation
+
+### This notebook contains the implmenetation of the paper 'Cosine Model Watermarking Against Ensemble Distillation' published in AAAI2022 (Oral).
+[https://arxiv.org/abs/2112.07835](https://arxiv.org/abs/2203.02777)
+
+## CosWM Case Study Demo 案例演示
 
 ## Download Code and Models
 
