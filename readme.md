@@ -1,10 +1,10 @@
 # CosWM Case Study Demo 案例演示
 
-## Download Code
+## Download Code and Models
 
 
 ```python
-!wget https://modelarts-cnnorth1-market-dataset.obs.cn-north-1.myhuaweicloud.com/example-apps/coswm/code.zip
+!wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/coswm/code.zip
 !unzip -qo code.zip
 ```
 
@@ -350,7 +350,7 @@ generate_plots_nb(xy_match, freqs_match, k)
 
 
     
-![png](coswm_demo_files/coswm_demo_30_1.png)
+![png](images/coswm_demo_30_1.png)
     
 
 
@@ -371,7 +371,7 @@ generate_plots_nb(xy_match, freqs_match, k)
 
 
     
-![png](coswm_demo_files/coswm_demo_31_1.png)
+![png](images/coswm_demo_31_1.png)
     
 
 
@@ -392,7 +392,7 @@ generate_plots_nb(xy_non_match, freqs_non_match, k)
 
 
     
-![png](coswm_demo_files/coswm_demo_32_1.png)
+![png](images/coswm_demo_32_1.png)
     
 
 
@@ -413,6 +413,6 @@ generate_plots_nb(xy_match, freqs_match, k)
 
 
     
-![png](coswm_demo_files/coswm_demo_33_1.png)
+![png](images/coswm_demo_33_1.png)
     
 
