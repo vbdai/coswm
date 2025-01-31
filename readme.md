@@ -1,7 +1,10 @@
 # Cosine Model Watermarking Against Ensemble Distillation
 
 ### This notebook contains the implmenetation of the paper 'Cosine Model Watermarking Against Ensemble Distillation' published in AAAI2022 (Oral).
-[https://arxiv.org/abs/2112.07835](https://arxiv.org/abs/2203.02777)
+
+Link to arXiv paper: [https://arxiv.org/abs/2112.07835](https://arxiv.org/abs/2203.02777)
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=2d937a91-1692-4f88-94ca-82e1ae8d4d79)
 
 ## CosWM Case Study Demo 案例演示
 
